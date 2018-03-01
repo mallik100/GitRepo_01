@@ -10,6 +10,13 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>SiteFooter</members>
+        <members>SiteHeader</members>
+        <members>SiteLogin</members>
+        <members>SitePoweredBy</members>
+        <name>ApexComponent</name>
+    </types>
+    <types>
         <members>SiteLogin</members>
         <members>SiteRegister</members>
         <name>ApexPage</name>
