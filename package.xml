@@ -1,15 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>40.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>A0</members>
         <members>A0001</members>
         <members>A0123</members>
         <members>A025</members>
+        <members>A0456</members>
+        <members>A080</members>
         <members>A1</members>
+        <members>A100</members>
+        <members>A101</members>
+        <members>A12</members>
+        <members>A13</members>
+        <members>A14</members>
+        <members>A15</members>
+        <members>A16</members>
+        <members>A18</members>
+        <members>A19</members>
         <members>A2</members>
+        <members>A21</members>
+        <members>A3</members>
+        <members>A4</members>
         <members>A5</members>
+        <members>A500</members>
+        <members>A57</members>
+        <members>A58</members>
+        <members>A700</members>
+        <members>A8</members>
+        <members>A98</members>
+        <members>A99</members>
+        <members>AAAA01</members>
+        <members>AAAA02</members>
+        <members>AAAA03</members>
+        <members>AAAA04</members>
+        <members>AAAA05</members>
+        <members>AAAA06</members>
+        <members>AAAA07</members>
+        <members>ARApexTest</members>
+        <members>ARKClass2</members>
+        <members>ATESTFizzBuzz</members>
+        <members>AajTak11111</members>
+        <members>AcC123</members>
+        <members>AcCV</members>
+        <members>AcCnTest2</members>
+        <members>Acc3Test3</members>
+        <members>AccNewTestPAVAN1</members>
+        <members>AccNewTestSAI1</members>
         <members>Apextest1111</members>
+        <members>BigClassAR1</members>
+        <members>Org3</members>
+        <members>RGorg01</members>
+        <members>RGorg02</members>
+        <members>RGvc01</members>
+        <members>RGvc02</members>
+        <members>VijayApexClass2</members>
+        <members>a12testclass</members>
+        <members>a13testclass</members>
         <members>apex1000</members>
         <members>apex111</members>
         <members>testobj100</members>
@@ -28,4 +73,126 @@
         <members>SiteRegister</members>
         <name>ApexPage</name>
     </types>
+    <types>
+        <members>Aurark</members>
+        <members>aURArk001</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Object_Depenency__c.E__c</members>
+        <members>parentC__c.parentTextFld__c</members>
+        <members>parentC__c.parentfld2__c</members>
+        <members>parentC__c.parentfld3__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>N1</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>A__c</members>
+        <members>E__c</members>
+        <members>Object_Depenency__c</members>
+        <members>parentC__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>rk_DocFolder</members>
+        <members>rk_DocFolder/rk_Dco2.csv</members>
+        <name>Document</name>
+    </types>
+    <types>
+        <members>A__c-A Layout</members>
+        <members>E__c-E Layout</members>
+        <members>Object_Depenency__c-Object Depenency Layout</members>
+        <members>QuickText-Quick Text Layout</members>
+        <members>ScorecardAssociation-Scorecard Association Layout</members>
+        <members>parentC__c-parentC Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>TestOb01__c.MCrule1</members>
+        <name>MatchingRule</name>
+    </types>
+    <types>
+        <members>Perm4</members>
+        <members>PermSet6</members>
+        <members>PermSet7</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>Analytics Cloud Integration User</members>
+        <members>Analytics Cloud Security User</members>
+        <members>Authenticated Website</members>
+        <members>Chatter External User</members>
+        <members>Chatter Free User</members>
+        <members>Chatter Moderator User</members>
+        <members>ContractManager</members>
+        <members>Cross Org Data Proxy User</members>
+        <members>Custom%3A Marketing Profile</members>
+        <members>Custom%3A Sales Profile</members>
+        <members>Custom%3A Support Profile</members>
+        <members>Customer Community Login User</members>
+        <members>Customer Community Plus Login User</members>
+        <members>Customer Community Plus User</members>
+        <members>Customer Community User</members>
+        <members>Customer Portal Manager Custom</members>
+        <members>Customer Portal Manager Standard</members>
+        <members>External Identity User</members>
+        <members>Force%2Ecom - App Subscription User</members>
+        <members>Force%2Ecom - Free User</members>
+        <members>Gold Partner User</members>
+        <members>Guest</members>
+        <members>High Volume Customer Portal User</members>
+        <members>HighVolumePortal</members>
+        <members>Identity User</members>
+        <members>MarketingProfile</members>
+        <members>Partner App Subscription User</members>
+        <members>Partner Community Login User</members>
+        <members>Partner Community User</members>
+        <members>PlatformPortal</members>
+        <members>ReadOnly</members>
+        <members>Rk-Profile9</members>
+        <members>Silver Partner User</members>
+        <members>SolutionManager</members>
+        <members>Standard</members>
+        <members>StandardAul</members>
+        <members>Work%2Ecom Only User</members>
+        <members>customProfile34</members>
+        <members>rk-Community08 Profile</members>
+        <members>rk-Profile4</members>
+        <members>rk-profiles1</members>
+        <members>rk-profiles2</members>
+        <members>rk-profiles3</members>
+        <members>rkblog1 Profile</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>Rk_Profile9_profilePasswordPolicy1525175542146</members>
+        <name>ProfilePasswordPolicy</name>
+    </types>
+    <types>
+        <members>Rk_Profile9_profileSessionSetting1525175542188</members>
+        <name>ProfileSessionSetting</name>
+    </types>
+    <types>
+        <members>RK_MasterFolder</members>
+        <members>RK_MasterFolder/re_accreport1</members>
+        <members>RK_MasterFolder/re_caseeport1</members>
+        <members>Rk_Report/rkrepro2</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>A__c</members>
+        <members>E__c</members>
+        <members>parentC__c</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>ACC_Obj1__c.EmailValidation</members>
+        <members>ACC_Obj1__c.Phone_Number_validation</members>
+        <name>ValidationRule</name>
+    </types>
+    <version>41.0</version>
 </Package>
